@@ -136,7 +136,7 @@
   background-color: white;
 }
 
-.hero-content__group-radius {
+.hero__group-radius {
   width: 60px;
   height: 12px;
   display: flex;
@@ -146,7 +146,7 @@
   margin-left: 16px;
 }
 
-.hero-content__radius {
+.hero__radius {
   width: 12px;
   height: 12px;
   border-radius: 50%;
@@ -154,7 +154,7 @@
   box-sizing: border-box;
 }
 
-.content__figure {
+.group__figure {
   width: 240px;
   height: 240px;
   margin: 54px auto 20px;
@@ -163,7 +163,7 @@
   grid-template-rows: repeat(3, 80px);
 }
 
-.content__circle {
+.figure__circle {
   border: 2px solid #000000;
   box-sizing: border-box;
   border-radius: 50%;
@@ -171,12 +171,12 @@
   height: 80px;
 }
 
-.content__none {
+.figure__none {
   width: 80px;
   height: 80px;
 }
 
-.content__box {
+.figure__box {
   background: #000000;
   border: 2px solid #000000;
   box-sizing: border-box;
@@ -184,7 +184,7 @@
   height: 80px;
 }
 
-.content__triangle {
+.figure__triangle {
   box-sizing: border-box;
   width: 80px;
   height: 80px;
@@ -192,7 +192,7 @@
 	border-right: 80px solid transparent;
 }
 
-.content__triangle_border_bottom {
+.figure__triangle_border_bottom {
   border-top: none;
   border-bottom: 80px solid black;
 }
@@ -221,7 +221,7 @@
   width: 700px;
 }
 
-.content__logos {
+.publication__logo-sponsors {
   margin-top: 80px;
   width: 908px;
   height: 40px;
@@ -230,7 +230,7 @@
   justify-content: space-between;
 }
 
-.content__logo {
+.publication__logo {
   background-color: black;
   width: 120px;
   height: 40px;
@@ -260,7 +260,7 @@
   position: absolute;
 }
 
-.content__figure_black-box {
+.group__figure_black-box {
   position: absolute;
   margin: 0;
   z-index: 10;
