@@ -2,4 +2,4 @@
 
 Практика в верстке
 
-link https://bobandmermaid.github.io/
+link https://bobandmermaid.github.io/landing-test/
